@@ -9,21 +9,15 @@
           "2"
         ]
       ]
-    }
-  },
-  "Partial Conferences": {
-    "Felipe de Lima Valentin": {
+    },
+    "Richard Sanchez": {
       "5272595673": [
         [
           1756516662,
           "ZAGNG0301B",
           "21NQA0K7BR",
           "38"
-        ]
-      ]
-    },
-    "Richard Sanchez": {
-      "5272595673": [
+        ],
         [
           1756516832,
           "ZC05",
@@ -41,8 +35,18 @@
           "ZC04",
           "4Y41R90027",
           "38"
+        ],
+        [
+          1756516885,
+          "SI001",
+          "4XD1P83425",
+          "38"
         ]
       ]
     }
+  },
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {},
+    "Richard Sanchez": {}
   }
 }
