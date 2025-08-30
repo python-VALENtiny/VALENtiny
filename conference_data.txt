@@ -1,6 +1,5 @@
 {
-  "Completed Conferences": {},
-  "Partial Conferences": {
+  "Completed Conferences": {
     "Felipe de Lima Valentin": {
       "5272595673": [
         [
@@ -8,8 +7,35 @@
           "ZAGNG0301B",
           "21NQA0K7BR",
           "38"
+        ],
+        [
+          1756517723,
+          "ZC05",
+          "4Z91Q37956",
+          "38"
+        ],
+        [
+          1756517729,
+          "ZC05",
+          "4Y50R20863",
+          "38"
+        ],
+        [
+          1756517737,
+          "ZC04",
+          "4Y41R90027",
+          "38"
+        ],
+        [
+          1756517747,
+          "SI001",
+          "4XD1P83425",
+          "38"
         ]
       ]
     }
+  },
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {}
   }
 }
