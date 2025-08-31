@@ -8,7 +8,9 @@
           "100"
         ]
       ]
-    },
+    }
+  },
+  "Partial Conferences": {
     "Felipe de Lima Valentin": {
       "5272595673": [
         [
@@ -43,8 +45,5 @@
         ]
       ]
     }
-  },
-  "Partial Conferences": {
-    "Felipe de Lima Valentin": {}
   }
 }
