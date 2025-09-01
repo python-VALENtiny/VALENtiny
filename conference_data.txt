@@ -1,6 +1,20 @@
 {
   "Completed Conferences": {
     "Felipe de Lima Valentin": {
+      "5272804613": [
+        [
+          1756751363,
+          "ZW03",
+          "0B50559",
+          "201"
+        ],
+        [
+          1756751452,
+          "ZC06",
+          "4Z51L42650",
+          "201"
+        ]
+      ],
       "5272815187": [
         [
           1756751072,
@@ -18,15 +32,6 @@
     }
   },
   "Partial Conferences": {
-    "Felipe de Lima Valentin": {
-      "5272804613": [
-        [
-          1756751363,
-          "ZW03",
-          "0B50559",
-          "201"
-        ]
-      ]
-    }
+    "Felipe de Lima Valentin": {}
   }
 }
