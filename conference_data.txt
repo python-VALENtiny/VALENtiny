@@ -1,6 +1,5 @@
 {
-  "Completed Conferences": {},
-  "Partial Conferences": {
+  "Completed Conferences": {
     "Felipe de Lima Valentin": {
       "5272815187": [
         [
@@ -8,8 +7,17 @@
           "ZW07",
           "0B50559",
           "150"
+        ],
+        [
+          1756751168,
+          "ZW07",
+          "4Z51L42650",
+          "150"
         ]
       ]
     }
+  },
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {}
   }
 }
