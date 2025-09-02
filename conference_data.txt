@@ -1,15 +1,6 @@
 {
   "Completed Conferences": {
-    "Felipe de Lima Valentin": {
-      "5272601306": [
-        [
-          1756773868,
-          "ZW06",
-          "4X31R64405",
-          "2"
-        ]
-      ]
-    }
-  },
+    "Felipe de Lima Valentin": {}
+}
   "Partial Conferences": {}
 }
