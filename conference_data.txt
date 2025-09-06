@@ -43,5 +43,16 @@
       ]
     }
   },
-  "Partial Conferences": {}
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {
+      "5272908192": [
+        [
+          1757117516,
+          "ZW02",
+          "21FBSBWC1W",
+          "1"
+        ]
+      ]
+    }
+  }
 }
