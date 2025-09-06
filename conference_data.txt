@@ -1,15 +1,1 @@
-{
-  "Completed Conferences": {},
-  "Partial Conferences": {
-    "Felipe de Lima Valentin": {
-      "5272906710": [
-        [
-          1757122516,
-          "ZC06",
-          "0B50559",
-          "190"
-        ]
-      ]
-    }
-  }
-}
+
