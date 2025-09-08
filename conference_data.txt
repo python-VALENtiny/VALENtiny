@@ -19,5 +19,16 @@
       ]
     }
   },
-  "Partial Conferences": {}
+  "Partial Conferences": {
+    "Richard Sanchez": {
+      "5272906682": [
+        [
+          1757297182,
+          "ZC04",
+          "0B50559",
+          "190"
+        ]
+      ]
+    }
+  }
 }
