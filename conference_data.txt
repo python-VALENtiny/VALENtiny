@@ -36,11 +36,7 @@
           "4Z11S13229",
           "190"
         ]
-      ]
-    }
-  },
-  "Partial Conferences": {
-    "Felipe de Lima Valentin": {
+      ],
       "5272906710": [
         [
           1757373815,
@@ -53,8 +49,17 @@
           "ZC06",
           "13DXS00100",
           "22"
+        ],
+        [
+          1757374082,
+          "ZC06",
+          "4Z11S13229",
+          "190"
         ]
       ]
     }
+  },
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {}
   }
 }
