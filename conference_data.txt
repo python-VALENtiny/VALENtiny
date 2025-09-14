@@ -1,6 +1,5 @@
 {
-  "Completed Conferences": {},
-  "Partial Conferences": {
+  "Completed Conferences": {
     "Rebeca": {
       "5272964724": [
         [
@@ -32,8 +31,17 @@
           "ZC06",
           "4X31R64405",
           "179"
+        ],
+        [
+          1757819684,
+          "ZW04",
+          "40AY0090BR",
+          "1"
         ]
       ]
     }
+  },
+  "Partial Conferences": {
+    "Rebeca": {}
   }
 }
