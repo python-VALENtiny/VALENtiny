@@ -19,5 +19,16 @@
       ]
     }
   },
-  "Partial Conferences": {}
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {
+      "5273105816": [
+        [
+          1758040075,
+          "ZC05",
+          "63CFMAR1BR",
+          "2"
+        ]
+      ]
+    }
+  }
 }
