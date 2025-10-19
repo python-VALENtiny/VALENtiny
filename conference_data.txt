@@ -33,8 +33,10 @@
           "3"
         ]
       ]
-	},
-	"Felipe de Lima Valentin": {
+	}
+  },
+  "Partial Conferences": {
+    "User de Teste 3": {
       "500229976": [
         [
           1758041386,
@@ -49,24 +51,6 @@
           "ZW06",
           "13DJ000CBO",
           "4"
-        ]
-      ]
-    }
-  },
-  "Partial Conferences": {
-    "User de Teste 3": {
-      "5273107744": [
-        [
-          1758040299,
-          "ZW02",
-          "83GL000VBR",
-          "2"
-        ],
-        [
-          1758040345,
-          "ZW02",
-          "40AY0090BR",
-          "2"
         ]
       ]
     },
