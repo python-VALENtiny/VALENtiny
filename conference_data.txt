@@ -46,7 +46,11 @@
           "ZAC60078BR",
           "4"
         ]
-      ],
+      ]
+    }
+  },
+  "Partial Conferences": {
+    "Felipe de Lima Valentin": {
       "5273107772": [
         [
           1758040299,
@@ -62,8 +66,5 @@
         ]
       ]
     }
-  },
-  "Partial Conferences": {
-    "Felipe de Lima Valentin": {}
   }
 }
