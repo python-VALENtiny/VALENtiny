@@ -11,5 +11,16 @@
       ]
     }
   },
-  "Partial Conferences": {}
+  "Partial Conferences": {
+    "Felipe Valentin": {
+      "5272964724": [
+        [
+          1761909976,
+          "ZC06",
+          "4X40Y95214",
+          "32"
+        ]
+      ]
+    }
+  }
 }
