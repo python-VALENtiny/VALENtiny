@@ -1,0 +1,26 @@
+{
+  "Completed Conferences": {
+    "Felipe Valentin": {
+      "5272973068": [
+        [
+          1762166767,
+          "ZW08",
+          "4X31R64424",
+          "9"
+        ]
+      ]
+    }
+  },
+  "Partial Conferences": {
+    "Felipe Valentin": {
+      "5272964724": [
+        [
+          1762167038,
+          "ZC06",
+          "4X40Y95214",
+          "32"
+        ]
+      ]
+    }
+  }
+}
