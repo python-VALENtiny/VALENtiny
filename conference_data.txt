@@ -1,1 +1,4 @@
-
+{
+  "Completed Conferences": {},
+  "Partial Conferences": {}
+}
